@@ -1,0 +1,27 @@
+{
+  "name": "awr-plugins-marketplace",
+  "id": "awr-plugins-marketplace",
+  "owner": {
+    "name": "phpet"
+  },
+  "metadata": {
+    "description": "AWR Plugins Marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "awr-ranking",
+      "source": "./",
+      "description": "AWR Ranking Skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "phpet"
+      },
+      "keywords": [
+        "AWR",
+        "rankings"
+      ],
+      "category": "tools"
+    }
+  ]
+}

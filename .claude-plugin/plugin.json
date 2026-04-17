@@ -1,0 +1,16 @@
+{
+    "name": "awr-ranking",
+    "description": "AWR Ranking Skills",
+    "version": "1.0.0",
+    "author": {
+        "name": "phpet"
+    },
+    "license": "MIT",
+    "keywords": [
+        "awr",
+        "ranking"
+    ],
+    "skills": [
+        "./skills/awr-ranking"
+    ]
+}
